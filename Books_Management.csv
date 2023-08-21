@@ -1,0 +1,185 @@
+Id,Name,Writer,Original_Language,Genre,Binding,Publication,Price,Transaction_method,Year,Read/Unread,Rating,Gender of the Writer
+1,The cycle of Time,Simone Boger,English,Non Fiction,Paperback,,₹20,Cash,2022,Partially read,Moderate,Female
+2,The Danish Girl,David Ebershoff,English,Fiction,Paperback,W&N,₹28,Online,2020,Yes,Moderate,Male
+3,A Room of One's Own,Virginia Woolf,English,Non Fiction,Paperback,Maple Classics,₹50,Cash,2023,Yes,Moderate,Female
+4,Odyssey,Homer,Greek,Poetry,Paperback,Airmont Publishing Company Ltd,₹50,Cash,2023,No,None,Male
+5,Light of the Bhagavata,A. C. B. Swami Prabhupada,English,Non Fiction,Paperback,The Bhakti Vedanta Book Trust,₹55,Online,2022,No,None,Male
+6,Cradle Tales of Hinduism,Sister Nivedita,English,Fiction,Paperback,Advaita Ashrama,₹70,Online,2016,Yes,Moderate,Female
+7,A Christmas Carol,Charles Dickens,English,Fiction,Paperback,Maple Classics,₹75,Online,2020,Yes,Moderate,Male
+8,Pskov,,English,Non Fiction,Hardcover,Raduga Publishers,₹80,Cash,2023,No,None,No information
+9,Vladimir,,English,Non Fiction,Hardcover,Raduga Publishers,₹80,Cash,2023,No,None,No information
+10,Outstanding World's Wonder,Anita & Gagan Gupta,English,Non Fiction,Paperback,M G Books,₹95,Cash,2016,Yes,Moderate,Male and Female
+11,Treasure Island,R. L. Stevenson,English,Fiction,Hardcover,Papillo Classics,₹95,Cash,2014,Yes,Excellent,Male
+12,The Wind in the willows,Kenneth Grahame,English,Fiction,Paperback,Fingerprint Classics,₹99,Online,2021,Yes,Moderate,Male
+13,Fairy Tales,The Brothers Grimm,English,Fiction,Hardcover,Children's Classics,₹100,Online,2022,No,Moderate,Male
+14,Four Plays Of Euripides,Euripides,Greek,Drama,Paperback,Penguin,₹100,Cash,2023,Yes,Moderate,Male
+15,The Adventures of Tom Sawyer and Huckleberry Finn,Mark Twain,English,Fiction,Hardcover,"Chuckervertty, Chatterjee & Coltd",₹100,Cash,2016,Yes,Excellent,Male
+16,The Iliad,Homer,Greek,Poetry,Paperback,Wordsworth Classics,₹100,Cash,2023,Partially read,Moderate,Male
+17,Meditations,Marcus Aurelius,Greek,Non Fiction,Paperback,Maple Classics,₹113,Online,2021,Yes,Excellent,Male
+18,Walden,Henry David Thoreau,English,Non Fiction,Paperback,Maple Classics,₹116,Online,2020,Yes,Excellent,Male
+19,Oliver Twist,Charles Dickens,English,Non Fiction,Paperback,Papillo Classics,₹120,Cash,2014,Yes,Moderate,Male
+20,The little Fellow,Peter Cotes & Thelma Niklaus,English,Non Fiction,Paperback,The Bodly Head London,₹120,Cash,2016,Yes,Excellent,Male and Female
+21,Stories by O. Henry,O. Henry,English,Fiction,Paperback,Mansi Publishing House,₹125,Cash,2016,Yes,Excellent,Male
+22,The Picture of Dorian Gray,Oscar Wilde,English,Fiction,Paperback,Maple Classics,₹125,Online,2020,Yes,Moderate,Male
+23,50 selected works of O. Henry,O. Henry,English,Fiction,Paperback,Projapoti,₹130,Online,2022,Yes,Moderate,Male
+24,Malgudi Days,R. K. Narayan,English,Fiction,Paperback,Indian Thought Publication,₹140,Cash,2014,Yes,Moderate,Male
+25,Kidnapped,R. L. Stevenson,English,Fiction,Hardcover,Jaico,₹145,Cash,2016,Yes,Moderate,Male
+26,Browning,Robert Browning,English,Poetry,Paperback,Penguin,₹150,Cash,2023,No,None,Male
+27,Poems of Robert Frost,Robert Frost,English,Poetry,Paperback,Washington Square Press Ltd,₹150,Cash,2023,No,None,Male
+28,Shelley,Percy Bysshe Shelley,English,Poetry,Paperback,Penguin,₹150,Cash,2023,No,None,Male
+29,Tales of Ancient Egypt,Roger Lancelyn Green,English,Fiction,Paperback,Puffin Classics,₹150,Online,2019,Yes,Moderate,Male
+30,The Monk who sold his Ferrari,Robin Sharma,English,Fiction,Paperback,Jaico Publishing Company,₹156,Online,2020,Yes,Bad,Male
+31,Little Women,Louisa May Alcott,English,Fiction,Paperback,Vintage classics,₹162,Online,2021,Yes,Excellent,Female
+32,Leo Tolstoy Selected works,Leo Tolstoy,Russian,Fiction,Paperback,Maple Classics,₹166,Online,2021,Yes,Moderate,Male
+33,Uncle Vanya,Anton Chekhov,Russian,Drama,Paperback,Dover Publication,₹167,Online,2023,Yes,Excellent,Male
+34,Manik Da: Memoirs of Satyajit Ray,Nemai Ghosh,English,Non Fiction,Paperback,Harper Collins,₹173,Online,2021,Yes,Moderate,Male
+35,Selected short stories of Anton Chekhov,Anton Chekhov,Russian,Fiction,Paperback,Little Scholarz pvt Ltd,₹175,Cash,2022,Partially read,Moderate,Male
+36,The Adventures of Henri Thoreau,Michael Sims,English,Non Fiction,Paperback,Bloomsbury publication,₹188,Online,2022,Yes,Moderate,Male
+37,Doctor Faustus,"Christopher Marlowe, Dr. R. Sen",English,Drama,Paperback,Unique Publishers Pvt Ltd,₹190,None,2018,Yes,Moderate,Male
+38,Rabindra galpagucchha,Rabindranath Tagore,Bengali,Fiction,Hardcover,,₹190,Online,2021,Partially read,Moderate,Male
+39,My Years with Apu,Satyajit Ray,English,Non Fiction,Paperback,Penguin,₹194,Online,2021,Yes,Moderate,Male
+40,Don Quixote,Miguel de Cervantes,Spanish,Fiction,Paperback,Maple Classics,₹197,Online,2021,Yes,Excellent,Male
+41,The origin of Species,Charles Darwin,English,Non Fiction,Paperback,Fingerprint classics,₹199,Online,2020,No,None,Male
+42,Catch-22,Joseph Heller,English,Fiction,Paperback,,₹200,Online,2022,Yes,Excellent,Male
+43,Pride & Prejudice,Jane Austen,English,Fiction,Paperback,,₹200,Cash,2014,Yes,Excellent,Female
+44,Macbeth: A Critical Evaluation,"W. Shakespeare, Dr. R. Sen",English,Drama,Paperback,Unique Publishers Pvt Ltd,₹210,None,2018,Yes,Moderate,Male
+45,Crime and Punishment,Fyodor Dostoevsky,Russian,Fiction,Paperback,Fingerprint classics,₹219,Online,2020,Yes,Excellent,Male
+46,Beyond Religion: Ethics for a whole World,The Dalai Lama,English,Non Fiction,Paperback,Element,₹220,Online,2020,Yes,Moderate,Male
+47,Wuthering Heights,Emily Bronte,English,Fiction,Paperback,Scholastic,₹225,None,2021,Yes,Bad,Female
+48,Sarat Rachana Samagra vol 2,Sarat Chandra Chattopadhyay,Bengali,Fiction,Hardcover,,₹230,Online,2021,No,None,Male
+49,Jane Eyre,Charlotte Bronte,English,Fiction,Paperback,Penguin ,₹234,Online,2020,Yes,Moderate,Female
+50,Bhagavad Gita,,Sanskrit,Non Fiction,Hardcover,Prakash Deluxe Silk Hardbound,₹239,Online,2020,Yes,Excellent,No information
+51,Great works of Jules Verne,Jules Verne,French,Fiction,Paperback,Projapoti,₹240,Online,2022,Partially read,Excellent,Male
+52,Sacred Tibet,Philip S. Rawson,English,Non Fiction,Paperback,Thames and Hudson,₹243,Online,2020,Yes,Excellent,Male
+53,The Tibetan Book of Death,W. Y. Evans-Wentz,English,Non Fiction,Paperback,Winsome Books India,₹248,Online,2020,Yes,Moderate,Male
+54,The Picture of Dorian Gray,Oscar Wilde,English,Fiction,Hardcover,Fingerprint Deluxe Edition,₹269,Online,2022,Yes,Excellent,Male
+55,Farewell to Arms,Ernest Hemingway,English,Fiction,Paperback,,₹270,Online,2023,No,None,Male
+56,The Hobbit,J. R. R. Tolkien,English,Fiction,Hardcover,Essential Modern Classics,₹272,Online,2020,Yes,Excellent,Male
+57,Thus Spoke Zarathustra,Friedrich Nietzsche,German,Prose,Paperback,Penguin ,₹276,Online,2021,Yes,Excellent,Male
+58,Into the Wild,Jon Krakauer,English,Fiction,Paperback,Pan Macmillan,₹284,Online,2021,Yes,Moderate,Male
+59,Asura: Tale of the Vanquished,Anand Neelakantam,English,Fiction,Paperback,,₹288,Online,2020,No,None,Male
+60,Holy Vedas,,Sanskrit,Poetry,Hardcover,Grapevine India,₹290,Online,2020,Yes,Moderate,Male
+61,The God of Small Things,Arundhati Roy,English,Fiction,Paperback,Penguin,₹295,None,2021,No,None,Female
+62,The Very best of Ruskin Bond,Ruskin Bond,English,Fiction,Paperback,Rupa Publishers,₹295,Cash,2018,Yes,Moderate,Male
+63,The Dalai Lama's Cat and The Power of Meow,David Michie,English,Fiction,Paperback,Hay House India,₹297,Online,2020,No,None,Male
+64,Man's Search for Meaning,Victor E. Frankl,German,Non Fiction,Paperback,rider,₹299,Cash,2021,Yes,Excellent,Male
+65,Rumi: A new Translation,Farrukh Dhondy,Persian,Poetry,Hardcover,Harper Collins,₹299,Online,2020,Yes,Moderate,Male
+66,Tess of D'Urbervilles,Thomas Hardy,English,Fiction,Paperback,Penguin ,₹299,Online,2018,Yes,Moderate,Male
+67,The Call of the Wild & White Fang,Jack London,English,Fiction,Hardcover,Wilco classics,₹299,Online,2023,Yes,Excellent,Male
+68,The Glass Menagerie,Tennessee Williams,English,Drama,Paperback,Penguin ,₹299,None,2023,Yes,Moderate,Male
+69,The complete Sherlock Holmes,Arthur Conan Doyle,English,Fiction,Paperback,BeThink Books,₹300,Online,2020,Yes,Excellent,Male
+70,The Alchemist,Paulo Coelho,English,Fiction,Hardcover,Harper Collins,₹310,Online,2020,Yes,Moderate,Male
+71,Inferno,Dan Brown,English,Fiction,Paperback,RHUK,₹319,Online,2020,Yes,Moderate,Male
+72,The Lost Symbol,Dan Brown,English,Fiction,Paperback,RHUK,₹319,Online,2020,Yes,Moderate,Male
+73,The Story of Philosophy,Will Durant,English,Non Fiction,Paperback,Simon and Schuster,₹320,Online,2021,Yes,Excellent,Male
+74,Devils,Fyodor Dostoevsky,Russian,Fiction,Paperback,Bloomsbury publication,₹322,Online,2022,Yes,Excellent,Male
+75,The Idiot,Fyodor Dostoevsky,Russian,Fiction,Paperback,Bloomsbury publication,₹324,Online,2021,Yes,Excellent,Male
+76,Angels and Demons,Dan Brown,English,Fiction,Paperback,RHUK,₹328,Online,2020,Yes,Moderate,Male
+77,A brief History of Time,Stephen Hawking,English,Non Fiction,Paperback,Bantam,₹329,Online,2020,Yes,Excellent,Male
+78,Doctor Zhivago,Boris Pasternak,Russian,Fiction,Paperback,RHUK,₹335,Online,2021,Yes,Excellent,Male
+79,The Dalai Lama's Cat and the Four Paws of Spiritual Success,David Michie,English,Fiction,Paperback,Hay House India,₹341,Online,2020,No,None,Male
+80,Journey to Lhasa,Sarat Chandra Das,English,Fiction,Paperback,Speaking Tiger,₹345,Online,2020,Yes,Moderate,Male
+81,The Glass Bead Game,Hermann Hesse,German,Fiction,Paperback,vintage classics,₹356,Online,2021,Yes,Excellent,Male
+82,The Dalai Lama's Cat,David Michie,English,Fiction,Paperback,Hay House India,₹358,Online,2020,Yes,Moderate,Male
+83,French in Three Months,Ronald Overy & Jacqueline Lecanuet,English,Non Fiction,Paperback,DK,₹361,Online,2021,Yes,Moderate,Male and Female
+84,Book Of Lost Tales: Book 2,J. R. R. Tolkien,English,Fiction,Paperback,Harper Collins,₹372,Online,2021,No,None,Male
+85,The Dalai Lama's Cat and the art of purring,David Michie,English,Fiction,Paperback,Hay House India,₹379,Online,2020,Yes,Moderate,Male
+86,The Brothers Karamazov,Fyodor Dostoevsky,Russian,Fiction,Paperback,Penguin ,₹384,Online,2022,Yes,Excellent,Male
+87,"Banaras, city of light",Diana L. Eck,English,Non Fiction,Paperback,Penguin,₹395,Online,2019,Yes,Moderate,Female
+88,And Quite flows the Don,Mikhail Sholokhov,Russian,Fiction,Paperback,Penguin ,₹397,Online,2021,Yes,Moderate,Male
+89,Into Thin Air,Jon Krakauer,English,Fiction,Paperback,Pan Macmillan,₹399,Online,2021,Yes,Moderate,Male
+90,Origin of (Almost) Everything,John Murray,English,Non Fiction,Paperback,New Scientist,₹402,Online,2020,Yes,Moderate,Male
+91,Book Of Lost Tales: Book 1,J. R. R. Tolkien,English,Fiction,Paperback,Harper Collins,₹405,Online,2021,No,None,Male
+113,Homo Deus,Yuval Noah Harari,English,Non Fiction,Paperback,Vintage,₹405,Online,2023,Yes,Bad,Male
+93,Complete poems of John Keats,John Keats,English,Poetry,Paperback,Wordsworth Poetry,₹406,Online,2023,No,None,Male
+94,"Egypt: Gods, Myths and Religion",Lucia Gahlin,English,Non Fiction,Paperback,Southwater,₹428,Online,2020,Yes,Excellent,Female
+95,The Way of Zen,Alan Watts,English,Non Fiction,Paperback,Vintage Spiritual Classics,₹428,Online,2020,Yes,Excellent,Male
+96,Zen: The Art of Simple Living,Shunmyo Masuno,Japanese,Non Fiction,Hardcover,Micael Joseph,₹434,Online,2020,Yes,Excellent,Male
+97,Steppenwolf,Hermann Hesse,German,Fiction,Paperback,Penguin,₹436,Online,2021,Yes,Excellent,Male
+98,The Art of Happiness,The Dalai Lama,English,Non Fiction,Paperback,,₹459,Online,2020,Yes,Moderate,Male
+99,Man Of Mathematics,E. T. Bell,English,Non Fiction,Paperback,Touchstone,₹469,Online,2022,Partially read,Moderate,Male
+100,Indian Philosophy vol 1,S. Radhakrishnan,English,Non Fiction,Paperback,Oxford India,₹483,Online,2021,Yes,Excellent,Male
+101,IKIGAI,Hector Garcia & Francesc Miralles,English,Non Fiction,Hardcover,Penguin Random House,₹499,Online,2021,Yes,Moderate,Male
+102,Kafka on the Shore,Haruki Murakami,Japanese,Fiction,Paperback,Vintage Books London,₹499,Online,2022,Partially read,None,Male
+103,Wabi Sabi: Japanese wisdom for a perfectly imperfect Life,Beth Kempton,English,Non Fiction,Hardcover,Piatkus,₹525,Online,2020,Yes,Excellent,Female
+104,The Secret,Rhonda Byrne,English,Non Fiction,Hardcover,Simon and Schuster,₹573,Online,2020,No,None,Female
+105,William Shakespeare complete works,William Shakespeare,English,Drama,Paperback,Arden,₹630,Online,2022,Partially read,Excellent,Male
+106,Les Miserables,Victor Hugo,French,Fiction,Paperback,Vintage Classics,₹648,Online,2021,Yes,Excellent,Male
+107,Time within Time: The Diaries,Andrei Tarkovsky,Russian,Non Fiction,Paperback,Seagull Books,₹681,Online,2021,Yes,Excellent,Male
+108,The History of Philosophy,A. C. Grayling,English,Non Fiction,Paperback,Penguin,₹699,Online,2021,Yes,Excellent,Male
+109,The Count of Monte Cristo,Alexander Dumas,French,Fiction,Hardcover,Penguin,₹797,Online,2022,Partially read,Excellent,Male
+110,The Lord of the rings,J. R. R. Tolkien,English,Fiction,Paperback,Harper Collins,₹805,Online,2021,Yes,Excellent,Male
+111,Leonardo da Vinci: the complete works,,English,Non Fiction,Hardcover,David and Charles,₹845,Online,2020,Yes,Excellent,No information
+112,Complete Chronicle of Narnia,C. S. Lewis,English,Fiction,Hardcover,Harper Collins,"₹1,337",Online,2022,Yes,Excellent,Male
+113,Exotics and Retrospectives,Lafcadio Hearn,English,Non Fiction,Hardcover,,,None,2021,Yes,Excellent,Male
+114,Ghostly Japan,Lafcadio Hearn,English,Non Fiction,Hardcover,,,None,2021,Yes,Excellent,Male
+115,Glimpses of Unfamiliar Japan,Lafcadio Hearn,English,Non Fiction,Hardcover,,,None,2021,Yes,Excellent,Male
+116,Kokoro Hints and Echoes of Japanese Inner Life,Lafcadio Hearn,English,Non Fiction,Hardcover,,,None,2021,Yes,Excellent,Male
+117,Kwaidan,Lafcadio Hearn,English,Non Fiction,Hardcover,,,None,2021,Yes,Excellent,Male
+118,Madame Chrysantheme,Pierre Loti,French,Non Fiction,Hardcover,,,None,2021,Yes,Excellent,Male
+119,Shadowings,Lafcadio Hearn,English,Non Fiction,Hardcover,,,None,2021,Yes,Excellent,Male
+120,Some Chinese Ghosts,Lafcadio Hearn,English,Non Fiction,Hardcover,,,None,2021,Yes,Excellent,Male
+121,Kakababu Samagra Vol 1,Sunil Ganguly,Bengali,Fiction,Hardcover,Anand Publishers,₹300,Cash,2016,Yes,Moderate,Male
+122,Kakababu Samagra Vol 2,Sunil Ganguly,Bengali,Fiction,Hardcover,Anand Publishers,₹400,Cash,2016,Yes,Moderate,Male
+123,Sankyu Samagra,Satyajit Ray,Bengali,Fiction,Hardcover,Anand Publishers,₹400,None,2016,Yes,Excellent,Male
+124,A Study of Spinoza,James Martineau,English,Non Fiction,Ebook,Macmillan and Co.,,None,2022,Partially read,None,Male
+125,Astrophysics for people in hurry,Neil DeGrasse Tyson,English,Non Fiction,Ebook,W. W. Norton and Company,,None,2023,Yes,Moderate,Male
+126,Pale Blue Dot,Carl Sagan,English,Non Fiction,Ebook,,,None,2021,Yes,Excellent,Male
+127,Death in Venice,Thomas Mann,German,Fiction,Ebook,,,None,2022,Yes,Excellent,Male
+128,The Diary of a country priest,Georges Bernanos,French,Fiction,Ebook,,,None,2022,Partially read,Moderate,Male
+129,Thinking Fast and Slow,Daniel Kahneman,English,Non Fiction,Ebook,,,None,2023,Partially read,None,Male
+130,A net of Fireflies- Japanese Haiku and Haiku Paintings,Harold Steward,Japanese,Poetry,Ebook,Charles E. Tuttle Company,,None,2022,No,None,Male
+131,Basho's Journey,David Landis Barnhill,Japanese,Poetry,Ebook,State University of New York Press,,None,2022,No,None,Male
+132,Gleanings in Buddha Fields,Lafcadio Hearn,English,Non Fiction,Ebook,Boston and New York Houghton Mifflin Company,,None,2022,No,None,Male
+133,Japan- An Attempt at Interpretation,Lafcadio Hearn,English,Non Fiction,Ebook,Project Gutenberg Ebook,,None,2022,No,None,Male
+134,Japanese Death Poems,Yoel Hoffmann,Japanese,Poetry,Ebook,Charles E. Tuttle Company,,None,2022,No,None,Male
+135,Matsuo Basho's Haiku-Selected Poems by Matsuo Basho,David Landis Barnhill,Japanese,Poetry,Ebook,State University of New York Press,,None,2022,No,None,Male
+136,Diary of Lady Murasaki,Murasaki Shikibu,Japanese,Non Fiction,Ebook,Penguin,,None,2022,No,None,Female
+137,A String of flowers,Murasaki Shikibu,Japanese,Poetry,Ebook,Stone Bridge Press,,None,2022,No,None,Female
+138,Tale of Genji,Murasaki Shikibu,Japanese,Prose,Ebook,Vintage classics,,None,2022,No,None,Female
+139,On the shortness of life and on the happy life,Lucius Annaeus Seneca,Others,Prose,Ebook,Abbott ePublishing,,None,2023,Yes,Excellent,Male
+140,The Art of Loving,Erich Fromm,English,Non Fiction,Ebook,Choun Publishing Co,,None,2023,Yes,Moderate,Male
+141,Dostoevsky and the riddle of the self,Yuri Corrigan,English,Non Fiction,Ebook,Northwestern University Press,,None,2022,No,None,Male
+142,Dostoevsky- A collection of critical Essays,Rene Wellek,English,Non Fiction,Ebook,"Prentice-Hall, Inc",,None,2023,Yes,Moderate,Male
+143,Dostoevsky's Greatest Characters,Bernard J. Paris,English,Non Fiction,Ebook,Pelgrave Macmillan,,None,2022,Partially read,None,Male
+144,"Dostoevsky, A Writer in His Time",Joseph Frank,English,Non Fiction,Ebook,Princeton University Press,,None,2022,No,None,Male
+145,Fyodor Dostoevsky,Peter Conradi,English,Non Fiction,Ebook,St. Martin's Press,,None,2022,Partially read,None,Male
+146,Fyodor Dostoevsky's Crime and Punishment-A Casebook,Richard Peace,English,Non Fiction,Ebook,Oxford University Press,,None,2022,Partially read,None,Male
+147,Notes from Underground,Fyodor Dostoevsky,Russian,Fiction,Ebook,Everyman's Library,,None,2022,Yes,Excellent,Male
+148,Prison Life in Siberia,Fyodor Dostoevsky,Russian,Non Fiction,Ebook,Stanford University Press,,None,2022,No,None,Male
+149,Problems of Dostoevsky's Poetics,Mikhail Bakhtin,Russian,Non Fiction,Ebook,University of Minnesota Press,,None,2022,Yes,Excellent,Male
+150,Remembering the End-Dostoevsky as Prophet to Modernity,"P. Travis Kroeker, Bruce K. Ward",English,Non Fiction,Ebook,Westview Press,,None,2022,Yes,None,Male
+151,The Eternal Husband,Fyodor Dostoevsky,Russian,Fiction,Ebook,Melville House Publishing,,None,2022,No,None,Male
+152,The Insulted and Injured,Fyodor Dostoevsky,Russian,Fiction,Ebook,,,None,2022,No,None,Male
+153,The Gambler,Fyodor Dostoevsky,Russian,Fiction,Ebook,,,None,2022,No,None,Male
+154,The Double,Fyodor Dostoevsky,Russian,Fiction,Ebook,,,None,2022,No,None,Male
+155,Dostoevsky Major Fiction,Edward Wasiolek,English,Non Fiction,Ebook,The MIT Press,,None,2022,Yes,Excellent,Male
+156,Ivanoff,Anton Chekhov,Russian,Drama,Ebook,Brentano's Publishers,,None,2022,Yes,Moderate,Male
+157,"Plays by Anton Chekhov, Second Series",Anton Chekhov,Russian,Drama,Ebook,,,None,2022,Yes,Excellent,Male
+158,Orpheus Descending,Tennessee Williams,English,Drama,Ebook,,,None,2022,No,None,Male
+159,Plays by August Strindberg,August Strindberg,Others,Drama,Ebook,Charles Scribner's Sons,,None,2022,No,None,Male
+160,Suddenly Last Summer,Tennessee Williams,English,Drama,Ebook,,,None,2022,No,None,Male
+161,Cat on a Hot Tin Roof,Tennessee Williams,English,Drama,Ebook,,,None,2022,No,None,Male
+162,The Complete Greek Drama,,Greek,Drama,Ebook,Random House,,None,2022,Partially read,Moderate,Male
+163,The Adventures of Tintin,Herge,French,Fiction,Ebook,,,None,2022,Yes,Excellent,Male
+164,Hiroshige-One Hundred Famous Views of Edo,Utagawa Hiroshige,Japanese,Non Fiction,Ebook,,,None,2022,Yes,Excellent,Male
+165,Hokusai,C. J. Holmes,English,Non Fiction,Ebook,,,None,2022,Yes,Excellent,Male
+166,Japan Journeys-Famous Woodblock Prints of Cultural Sights in Japan,Andreas Marks,English,Non Fiction,Ebook,Tuttle Publishing,,None,2022,Yes,Excellent,Male
+167,"Japanese Woodblock Prints, Artists, Publishers and Masterworks(1680-1900)",Andreas Marks,English,Non Fiction,Ebook,Tuttle Publishing,,None,2022,Partially read,Moderate,Male
+168,Michelangelo-the complete sculpture,Frederick Hartt,English,Non Fiction,Ebook,Harry N. Abrams Inc. Publishers,,None,2022,Partially read,Moderate,Male
+169,Monet,Nina Kalitina and Nathalia Brodskaia,English,Non Fiction,Ebook,,,None,2022,Yes,Excellent,Female
+170,One Hundred Aspects of the Moon-Japanese Woodblock Prints by Yoshitoshi,Tamara Tjardes,English,Non Fiction,Ebook,Museum of New Mexico Press,,None,2022,Yes,Excellent,Female
+171,Ukiyo-E The Art of the Japanese Print,Frederick Harris,English,Non Fiction,Ebook,Tuttle Publishing,,None,2022,Partially read,Moderate,Male
+172,Utamaro,Edmond de Goncourt,English,Non Fiction,Ebook,Parkstone Press International,,None,2022,Yes,Excellent,Male
+173,Van Gogh in Arles,Ronald Pickvance,English,Non Fiction,Ebook,Harry N. Abrams Inc. Publishers,,None,2022,Partially read,Moderate,Male
+174,Vincent van Gogh,Victoria Charles,English,Non Fiction,Ebook,Parkstone Press International,,None,2022,Yes,Excellent,Female
+175,What is Cinema Vol 1,Andre Bazin,French,Non Fiction,Ebook,University of California Press,,None,2022,Yes,Excellent,Male
+176,What is Cinema Vol 2,Andre Bazin,French,Non Fiction,Ebook,University of California Press,,None,2022,Yes,Excellent,Male
+177,"Transcendental Style in Film Ozu, Bresson, Dreyer",Paul Schrader,English,Fiction,Ebook,University of California Press,,None,2022,No,None,Male
+178,Ozu his life and films,Donald Richie,English,Non Fiction,Ebook,University of California Press,,None,2022,No,None,Male
+179,Sculpting In Time,Andrei Tarkovsky,Russian,Non Fiction,Ebook,,,None,2022,Partially read,None,Male
+180,"Films and Dreams Tarkovsky, Bergman, Sokurov, Kubrick, and Wong Kar- Wai",Thorsten Botz-Bornstein,English,Non Fiction,Ebook,Lexington Books,,None,2022,No,None,Male
+181,Andrei Tarkovsky Elements of Cinema,Robert Bird,English,Non Fiction,Ebook,Reaktion Books,,None,2022,No,None,Male
+182,Orlando,Virginia Woolf,English,Fiction,Paperback,Peacock Books,₹125,Online,2023,Yes,Excellent,Female
+183,Critique of Pure Reason,Immanuel Kant,German,Non Fiction,Paperback,Penguin,₹531,Online,2023,No,None,Male
+184,The Bell Jar,Sylvia Plath,English,Fiction,Paperback,Adarsh Books Pvt Ltd,₹225,Online,2023,Yes,Moderate,Female
