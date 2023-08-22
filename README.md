@@ -66,6 +66,30 @@ Before exporting the file into Jupyter Notebook, I've used Excel to clean up the
 
 ## Data Visualization: 
 
+![1](https://github.com/Arpita-deb/Do_I_read_all_the_books_I_buy/assets/139372731/60d26821-389e-4e5e-af90-49d37b7a3905)
+
+![2](https://github.com/Arpita-deb/Do_I_read_all_the_books_I_buy/assets/139372731/0ca6d12d-ce3d-45f3-bad4-c9bb4dfde5e0)
+
+![3](https://github.com/Arpita-deb/Do_I_read_all_the_books_I_buy/assets/139372731/f44a99e5-3ca8-4a1e-82f8-4dd642950d7b)
+
+![4](https://github.com/Arpita-deb/Do_I_read_all_the_books_I_buy/assets/139372731/f89f99e4-6901-41a9-ae28-5391558ccccb)
+
+![5](https://github.com/Arpita-deb/Do_I_read_all_the_books_I_buy/assets/139372731/68df5401-3784-42d1-a73f-e87ca34d8218)
+
+![6](https://github.com/Arpita-deb/Do_I_read_all_the_books_I_buy/assets/139372731/d4462c51-6b76-4e86-bd10-6f39f5b97c3c)
+
+![7](https://github.com/Arpita-deb/Do_I_read_all_the_books_I_buy/assets/139372731/9a389b13-21bc-4757-823e-97b1c6f22e59)
+
+![8](https://github.com/Arpita-deb/Do_I_read_all_the_books_I_buy/assets/139372731/fdab856f-ff9e-4050-a942-b48781f00ae3)
+
+![9](https://github.com/Arpita-deb/Do_I_read_all_the_books_I_buy/assets/139372731/cab8856d-1e87-416e-b27c-db80bbb2b5a2)
+
+![10](https://github.com/Arpita-deb/Do_I_read_all_the_books_I_buy/assets/139372731/73e0dde5-dcea-423a-b66d-bdefa45d1984)
+
+![11](https://github.com/Arpita-deb/Do_I_read_all_the_books_I_buy/assets/139372731/24eb8c13-38f2-4984-a6d3-7699cd36139c)
+
+
+
 ## Conclusion:
 From the Exploratory Data Analysis of this small dataset, I've been able to answer some important questions and also came up with some interesting insights.
 
