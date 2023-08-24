@@ -142,4 +142,26 @@ From the Exploratory Data Analysis of this small dataset, I've been able to answ
 
 * Most of the books are originally written in English.
 
+## Dashboard:
 
+For this project I've created an exploratory dashboard providing an overview of the dataset
+
+In order to build the tableau visualizations and the dashboards, I've taken the following steps:
+
+* Used tiled containers (vertical and horizontal) that contain the individual data visualizations
+
+* Used title for the dashboards
+
+* Used consistent color scheme that enhances the data
+
+* Cleared the chart junks such as titles of individual data viz, axis and axis labels, color legends etc that doesn't contribute to the data design
+
+* Visually grouped the data by using layout containers and colored background
+
+* Added an info button at the top right corner that provides information about the project and dataset used
+
+* Created device specific layouts
+
+
+
+You can Check out my [Tableau Dashboard](https://public.tableau.com/views/DoIreadallthebooksthatIbuy/Dashboard4?:language=en-US&:display_count=n&:origin=viz_share_link) here.
