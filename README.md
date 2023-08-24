@@ -162,5 +162,6 @@ In order to build the tableau visualizations and the dashboards, I've taken the 
 
 * Created device specific layouts
 
+![Screenshot (526)](https://github.com/Arpita-deb/Do_I_read_all_the_books_I_buy/assets/139372731/00d464dd-bdbe-440d-8168-bdcd0ce5002f)
 
 You can Check out my [Tableau Dashboard](https://public.tableau.com/views/DoIreadallthebooksthatIbuy/Dashboard4?:language=en-US&:display_count=n&:origin=viz_share_link) here.
