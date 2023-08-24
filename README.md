@@ -163,5 +163,4 @@ In order to build the tableau visualizations and the dashboards, I've taken the 
 * Created device specific layouts
 
 
-
 You can Check out my [Tableau Dashboard](https://public.tableau.com/views/DoIreadallthebooksthatIbuy/Dashboard4?:language=en-US&:display_count=n&:origin=viz_share_link) here.
