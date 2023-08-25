@@ -1,8 +1,8 @@
 # Do I read all the books I buy? 
-## An analysis of my collection of books using Python and Tableau 
+### An analysis of my collection of books using Python and Tableau 
 
 ## Introduction:
-Following the 6 phases of data analysis - namely ask, prepare, process, analyze, share and act, I've gained some interesting insights. For instance, I read Non Fictions most of the time and the ratio of female vs male writers is surprisingly 1:8.
+Books have been my constant companion since my childhood. But I've taken it seriously when life came to a standstill with the pandemic. And ever since my fascination with the world of literature has not reduced a bit. Following the 6 phases of data analysis - namely ask, prepare, process, analyze, share and act, I've gained some interesting insights of my books collection. For instance, I read Non Fictions most of the time and the ratio of female vs male writers is surprisingly 1:8.
 
 ## Tools Used: 
 
@@ -29,7 +29,7 @@ The key questions that I wanted to find answers were :
 
 * *Which books were most expensive and which were the cheapest?*
 
-* *Which genre, language, writer and Publications were most favoured?*
+* *Which genre, language, writer and publications were most favoured?*
 
 * *What is the average rate of books from each genre?*
 
@@ -62,9 +62,7 @@ The following steps are taken to clean and organise the data:
 
 * Creating a backup copy of the original data in a separate workbook.
 
-* Ensuring that the data is in a tabular format of rows and columns with: similar data in each column, all columns and rows visible, and no blank rows within the range.
-
-* Doing tasks that don't require column manipulation first, such as fixing mispelling and typos with the help of Spellcheck or using the Find and Replace dialog box.
+* Fixing mispelling and typos with the help of Spellcheck and Find and Replace dialog box.
 
 * Filling up the cells with the help of dropdown to reduce the typographic errors.
 
@@ -127,7 +125,7 @@ Approximately ₹20,000 were spent in 2020 and 2021 alone, a period marked by Co
 
 For this project I've created an exploratory dashboard providing an overview of the dataset
 
-In order to build the tableau visualizations and the dashboards, I've taken the following steps:
+In order to build the tableau visualizations and the dashboard, I've taken the following steps:
 
 * Used tiled containers (vertical and horizontal) that contain the individual data visualizations
 
@@ -148,7 +146,7 @@ In order to build the tableau visualizations and the dashboards, I've taken the 
 You can Check out my [Tableau Dashboard](https://public.tableau.com/views/DoIreadallthebooksthatIbuy/Dashboard4?:language=en-US&:display_count=n&:origin=viz_share_link) here.
 
 # PHASE 5 - SHARE
-It's time wrap up the entire projects with a few takeaways.
+It's time wrap up the entire project with a few takeaways.
 
 ## Conclusion:
 From the Exploratory Data Analysis of this small dataset, I've been able to answer some important questions and also came up with some interesting insights.
@@ -186,5 +184,3 @@ This analysis has enabled me to understand my own taste in books, and which type
 * Read more literature by Women.
 * Read some more poetries and Proses, along with dramas.
 * Read some books in French or German, or more translations of books in other languages.
-
-## List of References:
