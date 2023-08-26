@@ -8,7 +8,7 @@ Books have been my constant companion since my childhood. But I've taken it seri
 
 For this project a combination of 3 tools were used.
 
-* Excel for initial Data CLeaning
+* Excel for initial Data Cleaning
 * Jupyter Notebook(Python) for Exploratory Data Analysis
 * Tableau for creating data visualizations and a dashboard
 
@@ -29,7 +29,7 @@ The key questions that I wanted to find answers were :
 
 * *Which books were most expensive and which were the cheapest?*
 
-* *Which genre, language, writer and publications were most favoured?*
+* *Which genre, language, writer and publications were most favored?*
 
 * *What is the average rate of books from each genre?*
 
