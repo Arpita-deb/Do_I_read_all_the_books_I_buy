@@ -58,11 +58,11 @@ For this project I've created a dataset named Books_Management as a personal bud
 The first step to data analyze is to clean the typographical errors and other table junks, provide a structure to the table, remove redundant information and duplicates. Before exporting the file into Jupyter Notebook, I've used different Excel tools and functions to clean the dataset.
 
 ## Data Cleaning:
-The following steps are taken to clean and organise the data:
+The following steps are taken to clean and organize the data:
 
 * Creating a backup copy of the original data in a separate workbook.
 
-* Fixing mispelling and typos with the help of Spellcheck and Find and Replace dialog box.
+* Fixing misspelling and typos with the help of Spellcheck and Find and Replace dialog box.
 
 * Filling up the cells with the help of dropdown to reduce the typographic errors.
 
@@ -143,7 +143,7 @@ In order to build the tableau visualizations and the dashboard, I've taken the f
 
 ![Screenshot (526)](https://github.com/Arpita-deb/Do_I_read_all_the_books_I_buy/assets/139372731/00d464dd-bdbe-440d-8168-bdcd0ce5002f)
 
-You can Check out my [Tableau Dashboard](https://public.tableau.com/views/DoIreadallthebooksthatIbuy/Dashboard4?:language=en-US&:display_count=n&:origin=viz_share_link) here.
+You can check out my [Tableau Dashboard](https://public.tableau.com/views/DoIreadallthebooksthatIbuy/Dashboard4?:language=en-US&:display_count=n&:origin=viz_share_link) here.
 
 # PHASE 5 - SHARE
 It's time wrap up the entire project with a few takeaways.
@@ -159,11 +159,11 @@ From the Exploratory Data Analysis of this small dataset, I've been able to answ
 
 * About **₹20,000** has been spent in **2020** and **2021** alone, which corresponds to the covid pandemic. 
 
-* Interestingly it is in **2022** that I bought highest number of books, presumambly in much lower price (₹5815).
+* Interestingly it is in **2022** that I bought highest number of books, presumably in much lower price (₹5815).
 
 * The average price of books in this collection is **₹294**.
 
-* **Non_Fiction** and **Fiction** are the two most popular genres.
+* **Non-Fiction** and **Fiction** are the two most popular genres.
 
 * Most of my books are **Paperbacks**, and **Penguin** is my preferred publishing company.
 
