@@ -54,29 +54,28 @@ For this project I've created a dataset named Books_Management as a personal bud
 | Rating | How I rated the books - Excellent, Moderate, Bad, None(for unread books) |
 | Gender of the writer | Male, Female, No information, Male and Female (for multiple authors) |
 
+## Reliability: 
+The data set used for this project is created from 184 books that I've collected (hardcovers, paperbacks and eBooks) in June 2023 and processed by me in Excel before feeding it to the Jupyter Notebook.
+
+## Limitation of the data set:
+Since it is used as a personal tracker of budget, it is not open for public. And the data contains information till June 2023 and naturally will not include the books that'll be bought in later time.
+
+
 # PHASE 3 - PROCESS
 The first step to data analyze is to clean the typographical errors and other table junks, provide a structure to the table, remove redundant information and duplicates. Before exporting the file into Jupyter Notebook, I've used different Excel tools and functions to clean the dataset.
 
 ## Data Cleaning:
 The following steps are taken to clean and organize the data:
 
-* Creating a backup copy of the original data in a separate workbook.
-
-* Fixing misspelling and typos with the help of Spellcheck and Find and Replace dialog box.
-
-* Filling up the cells with the help of dropdown to reduce the typographic errors.
-
-* Removing duplicates using Remove Duplicate.
-
-* Changing the case of the text using PROPER Function.
-
-* Using TRIM function to remove the leading or trailing spaces from the texts.
-
-* Checking the formats of the data points.
-  
-*  Using Conditional formatting to find null data points.
-
-* Using Pivot tables to check inconsistencies and preliminary calculations.
+1. Creating a backup copy of the original data in a separate workbook.
+2. Fixing misspelling and typos with the help of Spellcheck and Find and Replace dialog box.
+3. Filling up the cells with the help of dropdown to reduce the typographic errors.
+4. Removing duplicates using Remove Duplicate.
+5. Changing the case of the text using PROPER Function.
+6 Using TRIM function to remove the leading or trailing spaces from the texts.
+7. Checking the formats of the data points.
+8.  Using Conditional formatting to find null data points.
+9. Using Pivot tables to check inconsistencies and preliminary calculations.
 
 # PHASE 4 - ANALYZE
 For analysis I've used Python and Jupyter Notebook which is provided as EDA_in_Python. The results of the analysis in presented as Tableau visualizations for quick and easy understanding.
