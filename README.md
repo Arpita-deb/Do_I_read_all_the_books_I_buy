@@ -55,7 +55,7 @@ For this project I've created a dataset named Books_Management as a personal bud
 | Gender of the writer | Male, Female, No information, Male and Female (for multiple authors) |
 
 ## Reliability: 
-The data set used for this project is created from 184 books that I've collected (hardcovers, paperbacks and eBooks) in June 2023 and processed by me in Excel before feeding it to the Jupyter Notebook.
+The data set used for this project is created from 184 books that I've collected (hardcovers, paperbacks and eBooks from 2014 to 2023) in June 2023 and processed by me in Excel before feeding it to the Jupyter Notebook.
 
 ## Limitation of the data set:
 Since it is used as a personal tracker of budget, it is not open for public. And the data contains information till June 2023 and naturally will not include the books that'll be bought in later time.
