@@ -80,6 +80,11 @@ The following steps are taken to clean and organize the data:
 8. Using Conditional formatting to find null data points.
 9. Using Pivot tables to check inconsistencies and preliminary calculations.
 
+## Database Normalization:
+In addition to cleaning the dataset, I've also designed a database system with normalized tables (upto 3rd Normal Form) using PostgreSQL. This project is available [here](https://github.com/Arpita-deb/Books-Database-Normalization.git), or you can read about the steps taken to create this database system in this [medium article](https://medium.com/@arpita_deb/from-spreadsheets-to-database-c2e8dbeb6a76).
+
+However, for the analysis phase I've used the cleaned dataset for simplicity's sake.
+
 # PHASE 4 - ANALYZE
 
 For analysis I've used Python and Jupyter Notebook which is provided as EDA_in_Python. The results of the analysis in presented as Tableau visualizations for quick and easy understanding.
@@ -87,30 +92,30 @@ For analysis I've used Python and Jupyter Notebook which is provided as EDA_in_P
 ## Data Visualization: 
 
 ### 1. Genre:
-![1](https://github.com/Arpita-deb/Do_I_read_all_the_books_I_buy/assets/139372731/60d26821-389e-4e5e-af90-49d37b7a3905)
+![genre](https://github.com/Arpita-deb/Books-Database-Normalization/assets/139372731/8a24f8e5-3cfc-40b3-b1a7-e868fa910374)
 
 About half of the collection contains Non - Fictions i.e books based on facts, actual events, or real people. In contrast, fiction is a genre of literature that describes imaginary settings, events, and characters. 
 
 
 ### 2. Format:
 
-![2](https://github.com/Arpita-deb/Do_I_read_all_the_books_I_buy/assets/139372731/0ca6d12d-ce3d-45f3-bad4-c9bb4dfde5e0)
+![binding](https://github.com/Arpita-deb/Books-Database-Normalization/assets/139372731/09755729-e715-405e-8e2f-9314d419665d)
 
 Paperbacks are my preferred type of books. Next comes ebooks which are very handy and mostly free of cost, making up 30% of the collection.
 
 ### 3. Books that are read, partially read or unread
 
-![3](https://github.com/Arpita-deb/Do_I_read_all_the_books_I_buy/assets/139372731/f44a99e5-3ca8-4a1e-82f8-4dd642950d7b)
-
+![books partially read](https://github.com/Arpita-deb/Books-Database-Normalization/assets/139372731/d66f40cd-4f1d-46aa-81b3-e4c9d9770587)
 More than half of the collection of books are already read. But there remains about 36% of books that I haven't read yet or partially read.
 
 ### 4. Identifying Unread books
 
-![4](https://github.com/Arpita-deb/Do_I_read_all_the_books_I_buy/assets/139372731/f89f99e4-6901-41a9-ae28-5391558ccccb)
+![unread books](https://github.com/Arpita-deb/Books-Database-Normalization/assets/139372731/7b22a48f-5e13-4df6-a2b1-72525a48840c)
 
 The reason behind ebooks being unread may be due to the fact that they remain out of my sight in some corner of a computer file and partially due to their digital format which can be hard oto read. 
 
 ### 5. Total expenses
+
 ![5](https://github.com/Arpita-deb/Do_I_read_all_the_books_I_buy/assets/139372731/68df5401-3784-42d1-a73f-e87ca34d8218)
 
 Over the course of 9 years, approximately ₹35,000 have been spent on books. 
@@ -125,21 +130,23 @@ Approximately ₹20,000 were spent in 2020 and 2021 alone, a period marked by Co
 
 ### 6. Distribution of Languages
 
-![9](https://github.com/Arpita-deb/Do_I_read_all_the_books_I_buy/assets/139372731/cab8856d-1e87-416e-b27c-db80bbb2b5a2)
+![lang](https://github.com/Arpita-deb/Books-Database-Normalization/assets/139372731/78cbb9bb-27d9-4d90-ac25-3b9b56697be8)
 
 ### 7. Most expensive books
-![8](https://github.com/Arpita-deb/Do_I_read_all_the_books_I_buy/assets/139372731/fdab856f-ff9e-4050-a942-b48781f00ae3)
+
+![top 20 books by price](https://github.com/Arpita-deb/Books-Database-Normalization/assets/139372731/c5ded1fc-6d45-430d-b040-fde354383bfd)
 
 ### 8. Popular writers
 
-![11](https://github.com/Arpita-deb/Do_I_read_all_the_books_I_buy/assets/139372731/24eb8c13-38f2-4984-a6d3-7699cd36139c)
+![top 10 writers](https://github.com/Arpita-deb/Books-Database-Normalization/assets/139372731/e5534558-5a05-4f57-be6b-c11478890a37)
 
 ### 9. Gender distribution
 
-![10](https://github.com/Arpita-deb/Do_I_read_all_the_books_I_buy/assets/139372731/73e0dde5-dcea-423a-b66d-bdefa45d1984)
+![gender](https://github.com/Arpita-deb/Books-Database-Normalization/assets/139372731/836d1e0f-34b7-45a8-9a7a-fdceb1e42ee6)
 
 ### 10. Ratings
-![12](https://github.com/Arpita-deb/Sweet-Symphony-Dessert-Shop-SQL-Analysis/assets/139372731/56a40927-9719-4460-b113-d6675c5b0453)
+
+![rating](https://github.com/Arpita-deb/Books-Database-Normalization/assets/139372731/5e6f218e-c1e3-4aeb-b299-d8c363f0de7a)
 
 ## Dashboard:
 
@@ -167,11 +174,12 @@ You can check out my [Tableau Dashboard](https://public.tableau.com/views/DoIrea
 It's time wrap up the entire project with a few takeaways.
 
 ## Conclusion:
+
 From the Exploratory Data Analysis of this small dataset, I've been able to answer some important questions and also came up with some interesting insights.
 
-* The answer to the first question, **Do I read all the books that I buy?** is unfortunately **No**. No matter how much I really enjoy reading books, there are almost 1/3 of books that I haven't read yet. Most of them are ebook formats.
+* The answer to the first question, **Do I read all the books that I buy?** is unfortunately **No**. No matter how much I really enjoy reading books, 33% of the total books are unread. Most of them are ebook formats.
 
-* **44** out of 184 books are **unread** and **21 partially read.**
+* **44** out of 184 (24%) books are **unread** and **21 partially read** (11%).
 
 * I've spent total **₹34,694** on books over the course of 9 years.
 
@@ -210,3 +218,8 @@ This analysis has enabled me to understand my own taste in books, and which type
 2. Majority of the data is categorical, I could have collected more numerical data to perform predictive analysis, by binning, encoding or creating dummy variables.
 3. The analysis doesn't include correlations between various variables, so we could not know which variables affect most my preference of books.
 4. Since the data is a private collection, it might not be publicly and widely useful.
+
+## Appendix:
+* [Database Normalization Project Documentation](https://github.com/Arpita-deb/Books-Database-Normalization.git)
+* [From Spreadsheets to Database - A Comprehensive study of Database Normalization](https://medium.com/@arpita_deb/from-spreadsheets-to-database-c2e8dbeb6a76)
+
