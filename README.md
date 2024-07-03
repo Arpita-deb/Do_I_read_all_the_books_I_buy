@@ -1,5 +1,5 @@
 # Do I read all the books I buy? 
-### An analysis of my collection of books using Python and Tableau 
+### An analysis of my collection of books 
 ![Do I read all the books I buy](https://github.com/Arpita-deb/Do_I_read_all_the_books_I_buy/assets/139372731/06dbfa73-832d-4cde-b584-9e7b2d7c5bd9)
 
 ## Introduction:
@@ -12,6 +12,7 @@ Following the 6 phases of data analysis - namely ask, prepare, process, analyze,
 For this project a combination of 3 tools were used.
 
 * Excel for initial Data Cleaning
+* PostgreSQL for Database Design
 * Python Programming Language (Jupyter Notebook) for Exploratory Data Analysis
 * Tableau for creating data visualizations and dashboard
 
