@@ -224,3 +224,8 @@ This analysis has enabled me to understand my own taste in books, and which type
 * [Database Normalization Project Documentation](https://github.com/Arpita-deb/Books-Database-Normalization.git)
 * [From Spreadsheets to Database - A Comprehensive study of Database Normalization](https://medium.com/@arpita_deb/from-spreadsheets-to-database-c2e8dbeb6a76)
 
+## License:
+
+This project is licensed under the MIT License for code, and a Proprietary License for the included data.
+
+You may use, modify, and distribute the code as per the MIT License, but the data contained within this repository is not to be replicated, reproduced, or distributed in any form without explicit permission from the author.
